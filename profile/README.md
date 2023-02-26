@@ -3,7 +3,7 @@
 
 Just a kang ROM,A personal LineageOS fork
 
-![](https://github.com/ArbitrarilyTong/.github/raw/main/ArbitrarilyTong-logov2-orange-512.png)
+![](https://github.com/ArbitrarilyTong/.github/raw/main/ArbitrarilyTong-logov2-orange-fixed-512.png)
 </div>
 
 # Devices List

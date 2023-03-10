@@ -12,3 +12,9 @@ Just a kang ROM,A personal AOSP fork
 | ------ | ----- | --------- |
 | Xiaomi | 10S   | Thyme     |
 
+# Thanks for
+[PixelExperience][pe] We used their [vendor_aosp][vendor_aosp] and [vendor_gms][vendor_gms] repositories
+
+[pe]: https://github.com/PixelExperience
+[vendor_aosp]: https://github.com/PixelExperience/vendor_aosp
+[vendor_gms]: https://gitlab.pixelexperience.org/android/vendor_gms

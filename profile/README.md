@@ -13,7 +13,15 @@ Just a kang ROM,A personal AOSP fork
 | Xiaomi | 10S   | Thyme     |
 
 # Thanks for
-- [PixelExperience][pe] (We used their [vendor_aosp][vendor_aosp] , [vendor_gms][vendor_gms] , [vendor_pixel-framework][vendor_pixel-framework] , [device_qcom_sepolicy_vndr-legacy-um] [device_qcom_sepolicy_vndr-legacy-um]and  handwares repositories)
+[PixelExperience][pe] 
+
+(We used their 
+ - [vendor_aosp][vendor_aosp] 
+ - [vendor_gms][vendor_gms] 
+ - [vendor_pixel-framework][vendor_pixel-framework] 
+ - [device_qcom_sepolicy_vndr-legacy-um] [device_qcom_sepolicy_vndr-legacy-um] 
+ 
+ and  handwares repositories)
 
 [pe]: https://github.com/PixelExperience
 [vendor_aosp]: https://github.com/PixelExperience/vendor_aosp

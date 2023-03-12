@@ -8,9 +8,13 @@ Just a kang ROM,A personal AOSP fork
 
 # Devices List
 
-| Brand  | Model | Code name |
-| ------ | ----- | --------- |
-| Xiaomi | 10S   | Thyme     |
+| Brand  | Model | Code name | Contributors         |
+| ------ | ----- | --------- | -------------------- |
+| Xiaomi | 10S   | Thyme     | CoolApk@小白Official |
+|        |       |           |                      |
+|        |       |           |                      |
+
+
 
 # Thanks for
 [PixelExperience][pe] 

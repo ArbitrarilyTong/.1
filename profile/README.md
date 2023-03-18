@@ -10,7 +10,7 @@ Just a kang ROM,A personal AOSP fork
 
 | Brand  | Model | Code name | Contributors         | Maintainer        | Status              |
 | ------ | ----- | --------- | -------------------- | ----------------- | ------------------- |
-| Xiaomi | 10S   | Thyme     | CoolApk@小白Official | CoolApk@RealLanta | Maintenance stopped |
+| Xiaomi | 10S   | Thyme     | CoolApk@小白Official | CoolApk@RealLanta | Maintenance stopped...? |
 |        |       |           |                      |                   |                     |
 |        |       |           |                      |                   |                     |
 

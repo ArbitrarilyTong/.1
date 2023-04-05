@@ -1,8 +1,4 @@
 <div align="center">
-<h1>ArbitrarilyTong</h1>
-
-Just a Pick ROM,A personal AOSP fork
-
 <img src="https://github.com/ArbitrarilyTong/.github/raw/main/ReadmeBlock.png" width=800px>
 </div>
 

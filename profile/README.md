@@ -1,7 +1,7 @@
 <div align="center">
 <h1>ArbitrarilyTong</h1>
 
-Just a kang ROM,A personal AOSP fork
+Just a Pick ROM,A personal AOSP fork
 
 ![](https://github.com/ArbitrarilyTong/.github/raw/main/ArbitrarilyTong-logov2-orange-fixed-512.png)
 </div>
@@ -11,6 +11,13 @@ Just a kang ROM,A personal AOSP fork
 | Brand  | Model | Code name |
 | ------ | ----- | --------- |
 | Xiaomi | 10S   | [Thyme](https://arbitrarilytong.win/thyme.html)     |
+
+# Codeberg
+Our Codeberg organization just storage some "big" files for g1ThUb
+
+Such as vendor_aosp and some vendor trees
+
+https://codeberg.org/ArbitrarilyTong
 
 # Thanks for
 [PixelExperience][pe] 

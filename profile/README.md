@@ -3,7 +3,7 @@
 
 Just a Pick ROM,A personal AOSP fork
 
-![](https://github.com/ArbitrarilyTong/.github/raw/main/arbitrarilytong.png)
+<img src="https://github.com/ArbitrarilyTong/.github/raw/main/ReadmeBlock.png" width=800px>
 </div>
 
 # Devices List

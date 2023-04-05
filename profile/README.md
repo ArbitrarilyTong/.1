@@ -3,7 +3,7 @@
 
 Just a Pick ROM,A personal AOSP fork
 
-![](https://github.com/ArbitrarilyTong/.github/raw/main/ArbitrarilyTong-logov2-orange-fixed-512.png)
+![](https://github.com/ArbitrarilyTong/.github/raw/main/arbitrarilytong.png)
 </div>
 
 # Devices List

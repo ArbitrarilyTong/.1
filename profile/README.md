@@ -2,6 +2,9 @@
 <img src="https://github.com/ArbitrarilyTong/.github/raw/main/ReadmeBlock.png" width=800px>
 </div>
 
+# Our Social Media
+[Twitter(JP)](https://twitter.com/Ninni_kiri_jp)
+
 # Devices List
 
 | Brand  | Model | Code name |

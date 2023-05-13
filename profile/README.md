@@ -10,6 +10,7 @@
 | Brand  | Model | Code name |
 | ------ | ----- | --------- |
 | Xiaomi | 10S   | [Thyme](https://arbitrarilytong.win/thyme.html)     |
+| Essential | PH-1   | Mata(Coming Soon...)     |
 
 # Codeberg
 Our Codeberg organization just storage some "big" files for g1ThUb

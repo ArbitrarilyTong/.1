@@ -13,9 +13,9 @@
 | Essential | PH-1   | Mata(Coming Soon...)     |
 
 # Codeberg
-Our Codeberg organization just storage some "big" files for g1ThUb
+Our Codeberg organization just storage some "big" files
 
-Such as vendor_aosp and some vendor trees
+Such as `vendor_aosp` and vendor trees
 
 https://codeberg.org/ArbitrarilyTong
 

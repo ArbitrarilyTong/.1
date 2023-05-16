@@ -37,6 +37,7 @@ https://codeberg.org/ArbitrarilyTong
 )
 
 [Kaleidoscope OS](kscope)
+
 (We used their
 - [external_oplus-fonts][external_oplus-fonts]
 )

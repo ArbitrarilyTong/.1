@@ -26,12 +26,27 @@ https://codeberg.org/ArbitrarilyTong
  - [vendor_aosp][vendor_aosp] 
  - [vendor_gms][vendor_gms] 
  - [vendor_pixel-framework][vendor_pixel-framework] 
- - [device_qcom_sepolicy_vndr-legacy-um] [device_qcom_sepolicy_vndr-legacy-um] 
+ - [device_qcom_sepolicy_vndr-legacy-um][device_qcom_sepolicy_vndr-legacy-um] 
  
  and  handwares repositories)
+
+[DotOS][dot]
+
+(We used their 
+ - [android_packages_apps_Settings][android_packages_apps_Settings]
+)
+
+[Kaleidoscope OS](kscope)
+(We used their
+- [external_oplus-fonts][external_oplus-fonts]
+)
 
 [pe]: https://github.com/PixelExperience
 [vendor_aosp]: https://github.com/PixelExperience/vendor_aosp
 [vendor_gms]: https://gitlab.pixelexperience.org/android/vendor_gms
 [vendor_pixel-framework]: https://github.com/PixelExperience/vendor_pixel-framework
 [device_qcom_sepolicy_vndr-legacy-um]: https://github.com/PixelExperience/device_qcom_sepolicy_vndr-legacy-um
+[dot]: https://github/DotOS
+[android_packages_apps_Settings]: https://github.com/DotOS/android_packages_apps_Settings
+[kscope]: https://github.com/Project-Kaleidoscope/
+[external_oplus-fonts]: https://gitlab.com/Project-Kaleidoscope/android_external_oplus-fonts

@@ -36,7 +36,7 @@ https://codeberg.org/ArbitrarilyTong
  - [android_packages_apps_Settings][android_packages_apps_Settings]
 )
 
-[Kaleidoscope OS](kscope)
+[Kaleidoscope OS][kscope]
 
 (We used their
 - [external_oplus-fonts][external_oplus-fonts]

@@ -2,7 +2,8 @@
 <img src="https://github.com/ArbitrarilyTong/.github/raw/main/ReadmeBlock-v2.png" width=800px>
 </div>
 
-# Our Social Media
+# Our Social media
+[Telegram Channel](https://t.me/ArbitrarilyTong)
 [Twitter(JP)](https://twitter.com/Ninni_kiri_jp)
 
 # Devices List

@@ -41,6 +41,7 @@ Please visit our another organization [@ArbitrarilyTong-Devices](https://github.
 
 (We used their
 - [android-vendor-gapps-spes][android-vendor-gapps-spes]
+- [android_packages_apps_GameSpace]
 )
 
 [dot]: https://github/DotOS
@@ -49,3 +50,4 @@ Please visit our another organization [@ArbitrarilyTong-Devices](https://github.
 [external_oplus-fonts]: https://gitlab.com/Project-Kaleidoscope/android_external_oplus-fonts
 [crd]: https://github.com/crdroidandroid
 [android-vendor-gapps-spes]: https://gitlab.com/crdroidandroid/android-vendor-gapps-spes/
+[android_packages_apps_GameSpace]: https://github.com/crdroidandroid/android_packages_apps_GameSpace

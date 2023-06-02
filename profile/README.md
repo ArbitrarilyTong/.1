@@ -48,4 +48,4 @@ Please visit our another organization [@ArbitrarilyTong-Devices](https://github.
 [kscope]: https://github.com/Project-Kaleidoscope/
 [external_oplus-fonts]: https://gitlab.com/Project-Kaleidoscope/android_external_oplus-fonts
 [crd]: https://github.com/crdroidandroid
-[android-vendor-gapps-spes]: (https://gitlab.com/crdroidandroid/android-vendor-gapps-spes/)
+[android-vendor-gapps-spes]: https://gitlab.com/crdroidandroid/android-vendor-gapps-spes/

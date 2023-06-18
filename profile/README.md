@@ -17,8 +17,6 @@
 # Codeberg
 Our Codeberg organization just storage some "large" files for g1ThUb
 
-Such as `vendor_aosp` and vendor trees
-
 https://codeberg.org/ArbitrarilyTong
 
 # Looking for device configurations?

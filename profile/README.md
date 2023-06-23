@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/ArbitrarilyTong/.github/raw/main/2banner.png" width=800px>
+<img src="https://github.com/ArbitrarilyTong/.github/raw/main/github_banner_2.png" width=800px>
 </div>
 
 # Our Social media

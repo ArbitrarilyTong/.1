@@ -10,6 +10,8 @@ This project is developed based on [crDroid][crd]
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)][codeberg]
 [![GitHub](https://img.shields.io/badge/Devices-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][devices]
+[![Gogs](https://img.shields.io/badge/Gogs-d75644.svg?style=for-the-badge&logo=git&logoColor=white)][gogs]
+[![Gogs-Mirror](https://img.shields.io/badge/Gogs%20Mirror-d75644.svg?style=for-the-badge&logo=git&logoColor=white)][gogs-mirror]
 
 ---
 
@@ -62,3 +64,5 @@ Our device configurations is store at another organization [@ArbitrarilyTong-Dev
 [codeberg]: https://codeberg.org/ArbitrarilyTong
 [devices]: https://github.com/ArbitrarilyTong-Devices
 [manifest]: https://github.com/ArbitrarilyTong/android
+[gogs]: https://c70v34.top/ArbitrarilyTong
+[gogs-mirror]: https://c70v34.top/ArbitrarilyTong-Mirror

@@ -30,7 +30,7 @@ This project is developed based on [crDroid][crd]
 
 # Repositories
 
-**We stop using Codeberg now,please visit our Gogs** 
+**We are stop using Codeberg now,please visit our Gogs** 
 
 ~~Our Codeberg organization just storage some "large" files for g1ThUb: [ArbitrarilyTong - Codeberg][codeberg]~~
 

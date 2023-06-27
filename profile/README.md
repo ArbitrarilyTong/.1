@@ -19,14 +19,14 @@ This project is developed based on [crDroid][crd]
 ---
 </div>
 
-# Devices List
+# Devices list
 
 | Brand  | Model | Code name |
 | ------ | ----- | --------- |
 | Xiaomi | 10S   | [Thyme](https://arbitrarilytong.win/thyme.html)     |
 | ~~Essential~~ | ~~PH-1~~   | ~~[Mata](https://arbitrarilytong.win/mata.html)~~     |
 
-# Repository
+# Repositories
 
 Our Codeberg organization just storage some "large" files for g1ThUb: [ArbitrarilyTong - Codeberg][codeberg]
 
@@ -47,10 +47,7 @@ Our device configurations is store at another organization [@ArbitrarilyTong-Dev
 
 [crDroid][crd]
 
-(We used their
-- [android-vendor-gapps-spes][android-vendor-gapps-spes]
-- [android_packages_apps_GameSpace]
-)
+(We used their all of the repositories)
 
 <!-- credits infos -->
 [dot]: https://github/DotOS
@@ -58,8 +55,6 @@ Our device configurations is store at another organization [@ArbitrarilyTong-Dev
 [kscope]: https://github.com/Project-Kaleidoscope/
 [external_oplus-fonts]: https://gitlab.com/Project-Kaleidoscope/android_external_oplus-fonts
 [crd]: https://github.com/crdroidandroid
-[android-vendor-gapps-spes]: https://gitlab.com/crdroidandroid/android-vendor-gapps-spes/
-[android_packages_apps_GameSpace]: https://github.com/crdroidandroid/android_packages_apps_GameSpace
 <!-- project infos -->
 [website]: https://arbitrarilytong.win
 [telegram]: https://t.me/ArbitrarilyTong

@@ -30,7 +30,7 @@ This project is developed based on [crDroid][crd]
 
 # Repositories
 
-Our Codeberg organization just storage some "large" files for g1ThUb: [ArbitrarilyTong - Codeberg][codeberg]
+**We stop using Codeberg now,please visit our Gogs** ~~Our Codeberg organization just storage some "large" files for g1ThUb: [ArbitrarilyTong - Codeberg][codeberg]~~
 
 Our device configurations is store at another organization [@ArbitrarilyTong-Devices][devices]
 

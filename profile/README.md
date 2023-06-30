@@ -21,16 +21,6 @@ This project is developed based on [crDroid][crd]
 ---
 </div>
 
-# 致某个福建转户口到上海的人
-
-请某个福建转户口到上海的人不要再来骚扰任意桐的发展，我们基于crd已经是说过是因为crd分布混乱不好直接pick且大部分用户要求加入crd的功能
-
-自己写不出一点东西出来搁这睿频别人？你看看你进步了多少我进步了多少？建议社会残渣少装点13多提升下自己
-
-有本事你也给我造一个比任意桐更好的东西出来
-
-![image](https://github.com/ArbitrarilyTong/.github/assets/95084339/02de8920-9320-438d-96d6-fb26654c0fa8)
-
 
 # Devices list
 

@@ -4,7 +4,7 @@
 
 <h1>ArbitrarilyTong | 任意桐</h1>
 
-This project is developed based on [crDroid][crd]
+This project is developed based on [LineageOS][los]
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
@@ -52,14 +52,20 @@ Our device configurations is store at another organization [@ArbitrarilyTong-Dev
 
 [crDroid][crd]
 
-(We used their all of the repositories)
+(We used their
+- [framework_base][framework_base]
+- [crDroidSettings][crDroidSettings]
+)
 
 <!-- credits infos -->
 [dot]: https://github/DotOS
 [android_packages_apps_Settings]: https://github.com/DotOS/android_packages_apps_Settings
 [kscope]: https://github.com/Project-Kaleidoscope/
 [external_oplus-fonts]: https://gitlab.com/Project-Kaleidoscope/android_external_oplus-fonts
+[framework_base]: https://github.com/crdroidandroid/android_frameworks_base
+[crDroidSettings]: https://github.com/crdroidandroid/android_packages_apps_crDroidSettings
 [crd]: https://github.com/crdroidandroid
+[los]: https://github.com/lineageos
 <!-- project infos -->
 [website]: https://arbitrarilytong.win
 [telegram]: https://t.me/ArbitrarilyTong

@@ -54,6 +54,7 @@ Our device configurations is store at another organization [@ArbitrarilyTong-Dev
 (We used their
 - [framework_base][framework_base]
 - [crDroidSettings][crDroidSettings]
+- [android_frameworks_av][android_frameworks_av]
 )
 
 <!-- credits infos -->
@@ -63,6 +64,7 @@ Our device configurations is store at another organization [@ArbitrarilyTong-Dev
 [external_oplus-fonts]: https://gitlab.com/Project-Kaleidoscope/android_external_oplus-fonts
 [framework_base]: https://github.com/crdroidandroid/android_frameworks_base
 [crDroidSettings]: https://github.com/crdroidandroid/android_packages_apps_crDroidSettings
+[android_frameworks_av]: https://github.com/crdroidandroid/android_frameworks_av
 [crd]: https://github.com/crdroidandroid
 [los]: https://github.com/lineageos
 <!-- project infos -->

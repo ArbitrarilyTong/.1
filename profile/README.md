@@ -6,11 +6,22 @@
 
 This project is developed based on [LineageOS][los]
 
+<br>
+
+<img src="https://github.com/litmusos/manifest/blob/thirteen/Litmus.png">
+
+<h1>Litmus OS</h1>
+
+A branch of ArbitrarilyTong
+
+<br>
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)][codeberg]
 [![GitHub](https://img.shields.io/badge/Devices-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][devices]
 [![GitLab](https://img.shields.io/badge/GitLab-d75644.svg?style=for-the-badge&logo=gitlab&logoColor=white)][GitLab]
+
 
 ---
 
